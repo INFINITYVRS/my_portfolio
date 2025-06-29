@@ -92,7 +92,7 @@ export function HeroSection() {
             <Button className="bg-orange-500 hover:bg-orange-600 text-white" onClick={scrollToContact}>
               Contact Me
             </Button>
-            <Link href="/vijayrs_resume.pdf" download target="_blank">
+            <Link href="/VijayRSresume (1).pdf" download target="_blank">
               <Button variant="outline" className="border-orange-500 text-orange-500 hover:bg-orange-500/10">
                 View Resume <Download className="ml-2 h-4 w-4" />
               </Button>
